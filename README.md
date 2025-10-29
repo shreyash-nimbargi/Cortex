@@ -34,6 +34,6 @@ Run the assistant:
 bun run dev
 ```
 
-Type your financial queries (e.g., "Add expense for coffee $5", "What's my balance?"). Type 'bye' to exit.
+Type your financial queries (e.g., "Add expense for coffee 5 Rs", "What's my balance?"). Type 'bye' to exit.
 
 This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
